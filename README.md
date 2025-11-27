@@ -1,4 +1,4 @@
-# Portfolio-Soporte-Tecnico
+# Portfolio-Soporte-Técnico
 Metodología de trabajo de Soporte Técnico independiente
 
 
