@@ -18,7 +18,7 @@ Metodología de trabajo de Soporte Técnico independiente
     * Verificación de recursos en el **Administrador de Tareas** para identificar procesos de CPU/RAM.
     * Uso de **CrystalDiskInfo** para verificar el estado del disco duro como la temperatura, tamaño, horas de encendido, etc. 
 * **Identificación de Cuellos de Botella:** Al verificar el equipo se detectó que el disco esta dañado y necesita un cambio urgente.
-  (Portfolio-Soporte-Tecnico/img/Disco_dañado.jpg)
+  
 ---
 
 ## 3. Plan de Acción y Pasos de la Solución
